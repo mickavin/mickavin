@@ -22,7 +22,7 @@ Salut ! Moi c’est **Kevin**, développeur full stack passionné, avec un parco
 - 🧾 **[Wikmit Task](https://wikmit-taskest.web.app/test) - Application de gestion de tâches** – Front/Back avec authentification et base de données.
 - 🏦 **[Pao](https://meduka-health-app-5.vercel.app/) - Prototype DeFi** – DApp avec smart contract ERC-20 et d'anonymisation de feedback de patients suivant des traitements médicamenteux.
 - 🎟️ **[Wikmit](https://wikmit.com) - Billetterie en ligne** – Billetterie en ligne d'événements !
-- 🍴 **[Iseeyou](https://iseeyou-asso.com/home) - Site associatif de maraude** – Site d'une association parisienne de maraude ayant pour but de faciliter l'entraide.
+- 🫂 **[Iseeyou](https://iseeyou-asso.com/home) - Site associatif de maraude** – Site d'une association parisienne de maraude ayant pour but de faciliter l'entraide.
 
 > Voir mes projets sur [GitHub](https://github.com/mickavin)
 
