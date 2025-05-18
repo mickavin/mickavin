@@ -9,7 +9,7 @@ Salut ! Moi c’est **Kevin**, développeur full stack passionné, avec un parco
 | 🔖 **Version control**      | Git, GitHub, Jenkins                                                                 |
 | 🤖 **AI**                   | OpenAI API, Grok API, GPT for scripts/tests                                 |
 | ☁️ **Cloud systems**        | Vercel, Render, Netlify, Heroku (bases sur AWS), AWS, Google Cloud                            |
-| 🖼️ **Frameworks**           | Laravel, Ruby on Rails, NodeJS, NextJS, GatsbyJS, VuesJS, React, React Native, Flask, Django, ThreeJS, Flutter, .NET, Node.js, Express, Hardhat, TailwindCSS                     |
+| 🖼️ **Frameworks**           | Laravel, Ruby on Rails, NodeJS, NextJS, GatsbyJS, VuesJS, React, React Native, Flask, Django, ThreeJS, Flutter, .NET, Node.js, Express, TailwindCSS                     |
 | ⛈️ **Databases**            | PostgreSQL, MongoDB, Firebase, Supabase                                                         |
 | 🖥️ **Operating systems**    | Linux (Debian/Ubuntu), macOS, Windows                                      |
 | 🎨 **Design**               | Figma (bases), Canva, Adobe, Responsive design, UX intuition                             |
@@ -19,7 +19,7 @@ Salut ! Moi c’est **Kevin**, développeur full stack passionné, avec un parco
 
 ## 📁 Quelques projets
 
-- 🧾 **[Wikmit Task] - Application de gestion de tâches** – Front/Back avec authentification et base de données.
+- 🧾 **[Wikmit Task](https://wikmit-taskest.web.app/test) - Application de gestion de tâches** – Front/Back avec authentification et base de données.
 - 🏦 **[Pao](https://meduka-health-app-5.vercel.app/) - Prototype DeFi** – DApp avec smart contract ERC-20 et d'anonymisation de feedback de patients suivant des traitements médicamenteux.
 - 🍴 **[Wikmit](https://wikmit.com) - Billetterie en ligne** – Billetterie en ligne d'événements !
 - 🍴 **[Iseeyou](https://iseeyou-asso.com/home) - Site associatif de maraude** – Site d'une association parisienne de maraude ayant pour but de faciliter l'entraide.
