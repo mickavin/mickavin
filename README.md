@@ -34,7 +34,7 @@ Ce qui compte pour moi : apprendre, évoluer, et construire des produits utiles.
 
 ## 📫 Me contacter
 
-- GitHub : [https://github.com/mickavin/mickavin](https://github.com/mickavin/mickavin)
+- GitHub : [https://github.com/mickavin](https://github.com/mickavin)
 - Email : `jphilippekev@gmail.com`
 
 ---
