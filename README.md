@@ -10,7 +10,7 @@ Salut ! Moi c’est **Kevin**, développeur full stack passionné, avec un parco
 | 🤖 **AI**                   | OpenAI API, Grok API, GPT for scripts/tests                                 |
 | ☁️ **Cloud systems**        | Vercel, Render, Netlify, Heroku (bases sur AWS), AWS, Google Cloud                            |
 | 🖼️ **Frameworks**           | Laravel, Ruby on Rails, NodeJS, NextJS, GatsbyJS, VuesJS, React, React Native, Flask, Django, ThreeJS, Flutter, .NET, Node.js, Express, TailwindCSS                     |
-| ⛈️ **Databases**            | PostgreSQL, MongoDB, Firebase, Supabase                                                         |
+| ⛈️ **Databases**            | MySQL, PostgreSQL, MongoDB, Firebase, Supabase                                                         |
 | 🖥️ **Operating systems**    | Linux (Debian/Ubuntu), macOS, Windows                                      |
 | 🎨 **Design**               | Figma (bases), Canva, Adobe, Responsive design, UX intuition                             |
 | 📄 **Documentation**        | Markdown, Notion, OpenAPI (Swagger)                                        |
