@@ -28,7 +28,7 @@ Salut ! Moi c’est **Kevin**, développeur full stack passionné, avec un parco
 
 ## 🔍 Ce que je recherche
 
-Je suis à la recherche de nouvelles **opportunités de stage, d’alternance ou de missions freelance**, dans des domaines variés : **développement web**, **outils internes**, **apps mobiles**, ou pourquoi pas encore un peu de **Web3**.
+Je suis à la recherche de nouvelles **opportunités de missions freelance**, dans des domaines variés : **développement web**, **outils internes**, **apps mobiles**, IOT, IA, ou pourquoi pas encore un peu de **Web3**.
 
 Ce qui compte pour moi : apprendre, évoluer, et construire des produits utiles.
 
