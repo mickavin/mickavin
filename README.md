@@ -29,6 +29,8 @@ Salut ! Moi c’est **Kevin**, développeur full stack passionné, avec un parco
 ## Projets en cours
 
 - **Shop&Dine - Logiciel de caisse POS orienté pour les traiteurs, restaurants, commerçants et organisateurs d'événements**
+- **Logiciel utilitaire HACCP/ERP avec des fonctionnalités de suivis de stocks, suivis sanitaires, reporting et analyses prévisionnels**
+- **Projet IOT HACCP de réseau de capteurs pour les établissements de restaurations dans un but de collecter des métriques sur les temperatures, taux d'humidité, etc...**
 - **Sunny Zinga - Application de conseils en cosmétiques**
 - **Pao - Application de conseils en prise de médicament**
 
