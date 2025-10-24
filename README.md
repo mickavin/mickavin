@@ -26,6 +26,13 @@ Salut ! Moi c’est **Kevin**, développeur full stack passionné, avec un parco
 
 > Voir mes projets sur [GitHub](https://github.com/mickavin)
 
+## Projets en cours
+
+- **Shop&Dine - Logiciel de caisse POS orienté pour les traiteurs, restaurants, commerçants et organisateurs d'événements**
+- **Sunny Zinga - Application de conseils en cosmétiques**
+- **Pao - Application de conseils en prise de médicament**
+
+
 ## 🔍 Ce que je recherche
 
 Je suis à la recherche de nouvelles **opportunités de missions freelance**, dans des domaines variés : **développement web**, **outils internes**, **apps mobiles**, IOT, IA, ou pourquoi pas encore un peu de **Web3**.
