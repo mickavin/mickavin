@@ -1,10 +1,10 @@
-## 👨‍💻 Kevin — Développeur Full Stack | Ancien Cuisinier & Étudiant à 42
+## 👨🏿‍💻 Kevin — Développeur Full Stack | Ancien Cuisinier & Étudiant à 42
 
 Salut ! Moi c’est **Kevin**, développeur full stack passionné, avec un parcours atypique : avant de coder des applications web, je travaillais en cuisine ! Aujourd’hui, j’allie rigueur, créativité et persévérance pour développer des solutions techniques solides et bien pensées.
 
 | Catégorie                  | Compétences                                                                 |
 |---------------------------|------------------------------------------------------------------------------|
-| 🧑‍💻 **Programming languages** | JavaScript, TypeScript, Solidity, Python, Bash, HTML, CSS, C#, C++, C, JAVA, Dart, PHP, Ruby, Go, Rust |
+| 👨🏿‍💻 **Programming languages** | JavaScript, TypeScript, Solidity, Python, Bash, HTML, CSS, C#, C++, C, JAVA, Dart, PHP, Ruby, Go, Rust |
 | 💻 **Code editors**         | VS Code, Vim, Cursor                                                                |
 | 🔖 **Version control**      | Git, GitHub, Jenkins                                                                 |
 | 🤖 **AI**                   | OpenAI API, Grok API, GPT for scripts/tests                                 |
